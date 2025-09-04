@@ -64,6 +64,7 @@
     <Compile Include="Assets\Prefabs\FPS Controller\Controller.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets\Art\Colton Snook\Credits.txt" />
     <None Include="Assets\Z_External Assets\info_morgueroom.txt" />
     <None Include="Assets\Z_External Assets\HospitalHorrorPack_DNKDEV\Link to Asset.txt" />
     <None Include="Assets\Z_External Assets\Morgue Room PBR\Link To Asset.txt" />
