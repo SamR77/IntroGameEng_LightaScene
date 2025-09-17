@@ -38,6 +38,9 @@ EditorUserSettings:
     RecentlyUsedSceneGuid-9:
       value: 01000256515751595d575f7311725a44464f41732f7b27657c2f4836b0b5356e
       flags: 0
+    lightmappingBakingProfile:
+      value: 51
+      flags: 0
     lightmappingDeviceAndPlatform:
       value: 53
       flags: 0

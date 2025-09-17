@@ -97,7 +97,7 @@ public class Controller : MonoBehaviour
         if (!m_IsPaused && !LockControl)
         {
             // Jump (we do it first as 
-            if (m_Grounded && Input.GetButtonDown("Jump"))
+            if (m_Grounded)
             {
                 m_VerticalSpeed = JumpSpeed;
                 m_Grounded = false;
