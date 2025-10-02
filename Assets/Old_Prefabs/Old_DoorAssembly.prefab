@@ -959,7 +959,7 @@ GameObject:
   m_Component:
   - component: {fileID: 812126543910825966}
   m_Layer: 0
-  m_Name: DoorAssembly
+  m_Name: Old_DoorAssembly
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
